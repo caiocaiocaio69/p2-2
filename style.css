@@ -86,10 +86,10 @@ body{ /*estilizacao do corpo da pagina*/
 .banner-titulo{
     font-size: 18px; /*tamanho da fonte 18 pixels*/
     font-weight: 700; /*peso da fonte 700*/
-    margin: 1em 0;
+    margin: 5em 0;
 }
 .banner-texto{
     font-weight: 500; /*peso da fonte 500*/
-    margin: 1em 0; /*espaçamento externo: 1 superior e inferior, 0 esquerda e direita*/
+    margin: em 0; /*espaçamento externo: 1 superior e inferior, 0 esquerda e direita*/
 }
 /*FIM DO BANNER*/
