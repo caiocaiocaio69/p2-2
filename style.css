@@ -27,6 +27,7 @@ body{ /*estilizacao do corpo da pagina*/
     display: inline-block; /*alinhar os elementos em linha*/
     background-repeat: no-repeat;
     background-position: center;
+    align-items: center;
 }
 .cabecalho{ /*estilizacao geral do cabecalho*/
     background-color: var(--cor-cabecalho);
