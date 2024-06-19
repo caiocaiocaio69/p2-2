@@ -55,6 +55,9 @@ body{ /*estilizacao do corpo da pagina*/
 .container-botao:checked ~ .lista-menu{
     display: block; /*a propriedade DISPLAY:BLOCK faz com que a lista apareça*/
 }
+.container-botao{
+    display: none; /*aqui removemos o input checkbox*/
+}
 .lista-menu-titulo,
 .lista-menu-item{
     padding: 1em;
