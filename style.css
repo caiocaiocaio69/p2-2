@@ -56,9 +56,9 @@ body{ /*estilizacao do corpo da pagina*/
 .container-botao:checked ~ .lista-menu{
     display: block; /*a propriedade DISPLAY:BLOCK faz com que a lista apareça*/
 }
-.container-botao{
+/*.container-botao{
     display: none; /*aqui removemos o input checkbox*/
-}
+/*}*/
 .lista-menu-titulo,
 .lista-menu-item{
     padding: 1em;
@@ -78,18 +78,18 @@ body{ /*estilizacao do corpo da pagina*/
 /*  FIM DO CABECALHO */
 
 /*INÍCIO DO BANNER*/
-.banner{
+/*.banner{
     background: var(--degrade);
     color: var(--branco);
     text-align: center;
 }
 .banner-titulo{
     font-size: 18px; /*tamanho da fonte 18 pixels*/
-    font-weight: 700; /*peso da fonte 700*/
-    margin: 1em 0;
-}
+    /*font-weight: 700; /*peso da fonte 700*/
+    /*margin: 1em 0;
+/*}
 .banner-texto{
     font-weight: 500; /*peso da fonte 500*/
-    margin: 1em 0; /*espaçamento externo: 1 superior e inferior, 0 esquerda e direita*/
-}
+    /*margin: 1em 0; /*espaçamento externo: 1 superior e inferior, 0 esquerda e direita*/
+/*}
 /*FIM DO BANNER*/
