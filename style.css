@@ -2,7 +2,7 @@
 
 :root{ /*definir variaveis de cor*/
     --cor-de-fundo: #EBECEE;
-    --cor-cabecalho: rgb(146, 104, 82);
+    --cor-cabecalho: rgb(246, 187, 155);
     --cor-fonte: #2b0036;
     --degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
 }
@@ -58,7 +58,7 @@ body{ /*estilizacao do corpo da pagina*/
 .lista-menu-titulo,
 .lista-menu-item{
     padding: 1em;
-    background-color: var(--cor-de-fundo);
+    background-color: var(--cor-cabecalho);
 }
 .lista-menu-titulo{
     color: var(--cor-fonte);
