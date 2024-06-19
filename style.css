@@ -65,7 +65,7 @@ body{ /*estilizacao do corpo da pagina*/
 }
 .lista-menu-titulo{
     color: var(--cor-fonte);
-    font-weight: 700;
+    font-weight: 700; /*peso da fonte (deixou em negrito)*/
 }
 .lista-menu-link{
     background: var(--degrade);
@@ -75,3 +75,19 @@ body{ /*estilizacao do corpo da pagina*/
     text-transform: uppercase;
 }
 /*  FIM DO CABECALHO */
+
+/*INÍCIO DO BANNER*/
+.banner{
+    background: var(--degrade);
+    color: var(--cor-fonte);
+    text-align: center;
+}
+.banner-titulo{
+    font-size: 18px; /*tamanho da fonte 18 pixels*/
+    font-weight: 700; /*peso da fonte 700*/
+}
+.banner-texto{
+    font-weight: 500; /*peso da fonte 500*/
+    margin: 1em 0; /*espaçamento externo: 1 superior e inferior, 0 esquerda e direita*/
+}
+/*FIM DO BANNER*/
