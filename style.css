@@ -5,6 +5,7 @@
     --cor-cabecalho: rgb(246, 187, 155);
     --cor-fonte: #2b0036;
     --degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    --branco: white;
 }
 body{ /*estilizacao do corpo da pagina*/
     background-color: var(--cor-de-fundo);
@@ -79,7 +80,7 @@ body{ /*estilizacao do corpo da pagina*/
 /*INÍCIO DO BANNER*/
 .banner{
     background: var(--degrade);
-    color: var(--cor-fonte);
+    color: var(--branco);
     text-align: center;
 }
 .banner-titulo{
