@@ -65,6 +65,7 @@ body{ /*estilizacao do corpo da pagina*/
 }
 .lista-menu-titulo{
     color: var(--cor-fonte);
+    font-weight: 700;
 }
 .lista-menu-link{
     background: var(--degrade);
