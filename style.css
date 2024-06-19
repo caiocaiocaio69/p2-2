@@ -86,7 +86,8 @@ body{ /*estilizacao do corpo da pagina*/
 .banner-titulo{
     font-size: 18px; /*tamanho da fonte 18 pixels*/
     font-weight: 700; /*peso da fonte 700*/
-    margin: 5em 0;
+    margin: 1em 0;
+    margin-top: 1em;
 }
 .banner-texto{
     font-weight: 500; /*peso da fonte 500*/
