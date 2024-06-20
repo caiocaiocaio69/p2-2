@@ -93,5 +93,19 @@ body{ /*estilizacao do corpo da pagina*/
     font-weight: 500; /*peso da fonte 500*/
     margin: em 0; /*espaçamento externo: 1 superior e inferior, 0 esquerda e direita*/
 }
-
+.banner-pesquisa{
+    background-color: transparent;
+    border: 1px solid var(--branco);
+    color: var(--branco);
+    border-radius: 24px;
+    padding: 1em;
+    width: 100%;
+}
+.banner-pesquisa::placeholder{
+    font-family: var(--cor-fonte);
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    color: var(--branco);
+}
 /*FIM DO BANNER*/
