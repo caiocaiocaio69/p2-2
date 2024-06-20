@@ -93,8 +93,5 @@ body{ /*estilizacao do corpo da pagina*/
     font-weight: 500; /*peso da fonte 500*/
     margin: em 0; /*espaçamento externo: 1 superior e inferior, 0 esquerda e direita*/
 }
-.banner-pesquisa{
-    background-color: #326589;
-    color: black;
-}
+
 /*FIM DO BANNER*/
