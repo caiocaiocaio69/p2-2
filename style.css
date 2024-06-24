@@ -111,7 +111,7 @@ body{ /*estilizacao do corpo da pagina*/
 /*FIM DO BANNER*/
 
 /*INÍCIO DO CARROSSEL*/
-.carrossel__titulo {
+.carrossel-titulo {
     color: var(--laranja);
     background-color: var(--branco);
     text-align: center;
