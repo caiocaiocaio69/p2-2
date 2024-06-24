@@ -16,7 +16,7 @@ body{ /*estilizacao do corpo da pagina*/
     }
 }*/
 
-/* INICIO DO CABECALHO */
+/* INICIO DO CABEÇALHO */
 
 .cabecalho-menu{ /*estilizacao do span no cabecalho*/
     width: 24px; /*largura*/
@@ -73,7 +73,7 @@ body{ /*estilizacao do corpo da pagina*/
     background-clip: text;
     text-transform: uppercase;
 }
-/*  FIM DO CABECALHO */
+/*  FIM DO CABEÇALHO */
 
 /*INÍCIO DO BANNER*/
 .banner{
