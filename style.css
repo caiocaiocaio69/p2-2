@@ -125,7 +125,7 @@ body{ /*estilizacao do corpo da pagina*/
 }
 .swiper-button-prev,
 .swiper-button-next {
-    display: none;
+    display: block;
 }
 .swiper-pagination {
     position: initial;
